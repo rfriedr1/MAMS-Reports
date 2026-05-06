@@ -1,0 +1,55 @@
+{
+  "header": {
+    "ProjectName": "Eil Latdorf Kalkteiche 2025-2026 (D749 Ak. 19815)",
+    "FirstName": "Silke",
+    "LastName": "Hebestreit",
+    "organisation": "Landesamt für Denkmalpflege",
+    "Address1": "Richard-Wagner-Str. 9",
+    "ZIP": "06114",
+    "City": "Halle / Saale",
+    "email": "shebestreit@lda.stk.sachsen-anhalt.de",
+    "ProjectInDate": "08.04.2026",
+    "OrderNr": "260192"
+  },
+  "samples": [
+    {
+      "labno": "87013",
+      "sample_name": "Eil 19815:8206:1",
+      "c14_age": "2991",
+      "err": "19",
+      "d13c": "-14.8",
+      "cal_1sigma": "cal BC 1265-1134",
+      "cal_2sigma": "cal BC 1367-1126",
+      "cn": "3.1",
+      "pct_c": "38.9",
+      "pct_coll": "17.6",
+      "mattype": "bone"
+    },
+    {
+      "labno": "87014",
+      "sample_name": "Eil 19815:8207:1",
+      "c14_age": "2985",
+      "err": "19",
+      "d13c": "-15.5",
+      "cal_1sigma": "cal BC 1261-1132",
+      "cal_2sigma": "cal BC 1277-1125",
+      "cn": "3.2",
+      "pct_c": "40.2",
+      "pct_coll": "14.0",
+      "mattype": "bone"
+    },
+    {
+      "labno": "87015",
+      "sample_name": "Eil 19815:8211:1",
+      "c14_age": "2971",
+      "err": "19",
+      "d13c": "-14.8",
+      "cal_1sigma": "cal BC 1255-1127",
+      "cal_2sigma": "cal BC 1262-1122",
+      "cn": "3.2",
+      "pct_c": "40.7",
+      "pct_coll": "20.1",
+      "mattype": "bone"
+    }
+  ]
+}
