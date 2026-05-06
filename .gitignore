@@ -1,0 +1,10 @@
+template_extracted/
+*.pyc
+__pycache__/
+.venv/
+venv/
+*.egg-info/
+.DS_Store
+test_output.docx
+out/
+*.tmp.docx
